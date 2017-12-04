@@ -1645,7 +1645,7 @@ if (isset($_POST["submit"])) {
 
 	  <h3 class="w3-center w3-large"><em>What's this <i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune ?</em></h3>
 
-	  <p class="w3-center w3-large"><i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune is a <b>popularization</b> and <b>re-information</b> site on the world of <b>cryptocurrency</b>, founded by two friends, to help <b>francophone community</b> crypto-currencies. Gathering the necessary information to newcomers and creating cognitive dissonance to counter the propaganda of the mainstream media.</p>
+	  <p class="w3-center w3-large"><i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune is a <b>popularization</b> and <b>re-information</b> site on the world of <b>cryptocurrency</b>, founded by two friends, to help <b>francophone community</b> cryptocurrencies. Gathering the necessary information to newcomers and creating cognitive dissonance to counter the propaganda of the mainstream media.</p>
 
 	  <p class="w3-center w3-large"><i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune offers an introduction to the world of cryptocurrency, for more information, we invite you to explore each point on our site.<br>verslalune.fr</p>
 
