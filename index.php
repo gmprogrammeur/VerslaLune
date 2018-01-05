@@ -390,7 +390,7 @@ if (isset($_POST["submit"])) {
 
 				<h3 class="w3-center w3-large"><b>White list de <i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune</b></h3>
 
-				<p class="w3-center w3-large">-<a href="https://bitcoin.org/fr/" target="_blank">Bitcoin</a><br>-<a href="https://www.ethereum.org/" target="_blank">Ethereum</a><br>-<a href="https://litecoin.org/fr/" target="_blank">Litecoin</a><br>-<a href="https://z.cash/" target="_blank">Zcash</a><br>-<a href="https://iota.org/" target="_blank">IOTA</a></p>
+				<p class="w3-center w3-large">-<a href="https://bitcoin.org/fr/" target="_blank">Bitcoin</a><br>-<a href="https://www.ethereum.org/" target="_blank">Ethereum</a><br>-<a href="https://litecoin.org/fr/" target="_blank">Litecoin</a><br>-<a href="https://z.cash/" target="_blank">Zcash</a></p>
 
 			</div>
 
@@ -1146,8 +1146,7 @@ if (isset($_POST["submit"])) {
 	      		<a href="https://twitter.com/CryptoAnalyseFr" target="_blank">CryptoAnalyseFr</a><br>
 	      		<a href="https://twitter.com/LeJournalDuCoin" target="_blank">LeJournalDuCoin</a><br>
 	      		<a href="https://twitter.com/LaMaisonDuBTC" target="_blank">LaMaisonDuBTC</a><br>
-	      		<a href="https://twitter.com/coinmunityfr" target="_blank">coinmunityfr</a><br>
-	      		<a href="https://twitter.com/RousseauxTuyaux" target="_blank">RousseauxTuyaux</a>
+	      		<a href="https://twitter.com/coinmunityfr" target="_blank">coinmunityfr</a>
 
 	    	</div>
 
@@ -1572,7 +1571,7 @@ if (isset($_POST["submit"])) {
 
 				<h3 class="w3-center w3-large"><b>White list de <i class="fa fa-rocket w3-hover-text-grey"></i> Vers la Lune</b></h3>
 
-				<p class="w3-center w3-large">-<a href="https://www.envion.org/en/" target="_blank">envion.org</a><br>-<a href="https://www.napoleonx.ai/" target="_blank">napoleonx.ai</a></p>
+				<p class="w3-center w3-large">-<a href="https://www.envion.org/en/" target="_blank">envion.org</a></p>
 
 			</div>
 
